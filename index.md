@@ -1,8 +1,8 @@
 ![program](cargese2023.jpg)
 
-The past decade brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The statistical physics community and the machine learning ones were connected and indeed many concepts and algorithms of machine learning have roots in physics. It is time to revive and strengthen this connection. After [a wonderful event in 2018](https://krzakala.github.io/cargese.io/), we gather once again in Cargese in 2023, from July 31st to August 12th, and bring together researchers from machine learning & statistical physics to take full advantage of the strong link between the two fields to make further scientific progress.  The program will concentrate on theoretical aspect of machine learning and high-dimensional statistics, and their deep link with physics, as well as the direct applications of machine learning techniques in physics, for instance for sampling and generative problems.
+The past decades brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The statistical physics community and the machine learning ones were connected and indeed many concepts and algorithms of machine learning have roots in physics. It is time to revive and strengthen this connection. After [a wonderful event in 2018](https://krzakala.github.io/cargese.io/) and  [a wonderful event in 2023](https://cargese2023.github.io/), we shall gather once again in Cargese in 2025, from July 31st to August 12th, and bring together researchers from machine learning & statistical physics to take full advantage of the strong link between the two fields to make further scientific progress. This school aims to bring together researchers from machine learning and statistical physics to train a new generation that will be able to take full advantage of the strong link between the two fields to make further scientific progress, but also to learn about the exiciting developenent in each other fields. The school will cover both theoretical aspect of machine learning and statistics. The format will be several (~10) 3h introductory lectures, and about twice as many contributed invited talks.
 
-__Organisers:__  Damien Barbier (EPFL, IdePhics Lab.), Vittorio Erba (EPFL, SPOC Lab.), Florent Krzakala (EPFL, IdePhics Lab.), Bruno Loureiro (ENS, Paris), Lenka Zdeborova (EPFL, SPOC Lab.) 
+__Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.) 
 
 # Schedule
 
@@ -18,149 +18,47 @@ The program of the workshop:
 <!-- 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=WEEK&src=Y2FyZ2VzZTIwMjNAZ21haWwuY29t&color=%23039BE5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
+
+# Lecturers
+
+<div style="column-count: 3;">
+
+Peter Bartlett (Berkeley)<br>
+Giulio Biroli (ENS)<br>
+Michael Bronstein (DeepMind)<br>
+Bruno Loureiro (ENS Paris)<br>
+Aaditya Ramdas (CMU)<br>
+Daniel Roy (Vector Institute)<br>
+Andrez Saxe (UCL)<br>
+
+</div>
+
 # Invited speakers
 
 <div style="column-count: 3;">
-
+Michael Albergo (courant) <br>
 Gérard 	Ben Arous 	(NYU)<br>
-Guy 	Bresler	(MIT)<br>
-Joan 	Bruna	(NYU)<br>
-Ahmed 	El Alaoui	(Cornell) <br>
-Marylou 	Gabrié	(Polytechnique Paris) <br>
-David 	Gamarnik	(MIT)<br>
-Cedric 	Gerbelot	(NYU)<br>
-Sebastian 	Goldt	(SISSA Trieste) <br>
-Alice 	Guionnet	(ENS Lyon) <br>
-Suriya 	Gunasekar	(Microsoft)<br>
-Boris 	Hanin	(Princeton) <br>
-Julia 	Kempe	(NYU)<br>
-Bruno Loureiro (ENS Paris)<br>
-Yue	Lu	(Harvard) <br>
-Antoine 	Maillard	(ETH Zurich)<br>
-Theodor	Misiakiewicz	(Stanford) <br>
-Remi 	Monasson	(ENS Paris) <br>
-Cristopher 	Moore	(Santa Fe Institute)<br>
-Cengiz 	Pehlevan	(Harvard) <br>
-Galen 	Reeves	(Duke)<br>
-Cindy	Rush	(Columbia) <br>
-Andrew 	Saxe	(UCL)<br>
-Mark 	Sellke	(Harvard) <br>
-Guilhem 	Semerjian 	(ENS Paris) <br>
-Subhabrata 	Sen	(Harvard) <br>
-Allan 	Sly	(Princeton) <br>
-Nathan 	Srebro	(TTIC)<br>
-Ludovic Stephan (EPFL)<br>
-Pragya 	Sur	(Harvard) <br>
+Afonso Bandeira (ETHZ)<br>
+Karolina Dziugaite (Goodle)<br>
+Federica	Gerace (Bologna)<br>
+ Brice Huang (Harvard)<br>
+Aukosh Jagannath (Waterloo)<br>           
+Alessandro Liao (ICTP)<br>
+Song Mei (Berkeley)<br>   
+Francesca Mignacco (Princeton)<br>
+Courtney Paquette (McGill University)<br>
+Will Perkins (Georgia Tech)<br>           
 Eric 	Vanden-Eijnden	(NYU)<br>
-Soledad 	Villar	(Johns Hopkins)<br>
-Matthieu 	Wyart 	(EPFL) <br>
-Ilias 	Zadik 	(MIT)<br>
-Riccardo 	Zecchina	(Bocconi)
-</div>
-
-# Contributed speakers
-
-<div style="column-count: 3;">
-
-Demian Barbier (EPFL)<br>
-Freya	Behrens (EPFL)<br>
-Stefan	Boettcher (Emory)<br>
-Zhengdao	Chen (Google)<br>
-Lucas	Clarte (EPFL)<br>
-Hugo	Cui (EPFL)<br>
-Alex	Damian (Princeton)<br>
-Yatin	Dandi    (EPFL)<br>
-Anna	Dawid (Flatiron)<br>
-Vittorio Erba (EPFL)<br>
-Federica	Gerace (SISSA Trieste)<br>
-Davide	Ghio (EPFL)<br>
-Brice	Huang (MIT)<br>
-Justin	Ko (ENS Lyon)<br>
-Jean-Christophe	Mourrat (ENS Lyon and CNRS)<br>
-Aris	Moustakas (National Kapodistrian University of Athens)<br>
-Matteo	Negri (Rome La Sapienza)<br>
-Ari	Pakman (Ben-Gurion University)<br>
-Fabrizio	Pittorino (Bocconi)<br>
-Stefano	Sarao Mannelli (Gatsby & SWC Universtiy College London)<br>
-Inbar	Seroussi (Tel-Aviv University)<br>
-Jamie	Simon (UC Berkeley)<br>
-Umberto	Tomasini (EPFL)<br>
-Jacob	Zavatone-Veth (Harvard)<br>
-
-</div>
-
-
-# List of Participants
-
-<div style="column-count: 3;">
-
-Urte			Adomaityte			(King's College)<br>
-Scott			Armstrong			(NYU Courant)<br>
-Luca			Arnaboldi			(EPFL)<br>
-Freya			Behrens			    (EPFL)<br>
-Pierfrancesco	Beneventano		    (Princeton)<br>
-Stefan			Boettcher			(Emory)<br>
-Blake			Bordelon			(Harvard)<br>
-Brujic			Jasna			(NYU)<br>
-Zhengdao		Chen			    (Google)<br>
-Lucas			Clarte			    (EPFL)<br>
-Hugo			Cui			        (EPFL)<br>
-Alex			Damian			    (Princeton)<br>
-Yatin			Dandi			    (EPFL)<br>
-Anna			Dawid			    (Flatiron)<br>
-Elizaveta		Demyanenko			(Bocconi)<br>
-Daniil			Dmitriev			(ETH Zurich)<br>
-Odilon			Duranthon			(EPFL)<br>
-Kirsten			Fischer			    (Juelich Research Center)<br>
-Federica		Gerace			    (SISSA Trieste)<br>
-Davide			Ghio			    (EPFL)<br>
-Mortiz          Haas                (University of Tübingen)<br>
-Mengjian		Hua			        (NYU Courant)<br>
-Brice			Huang			    (MIT)<br>
-Chris			Jones			    (Bocconi)<br>
-Nirmit			Joshi			    (Toyota Technological Institute Chicago)<br>
-Christian		Keup			    (EPFL)<br>
-Justin			Ko			        (ENS Lyon)<br>
-Clarissa		Lauditi			    (Politecnico Turin)<br>
-Noam            Levi                (Tel Aviv University)<br>
-Mufan           Li                  (University of Toronto)<br>
-Stephan			Ludovic			    (EPFL)<br>
-Pierre			Mergny			    (EPFL)<br>
-Jean-Christophe	Mourrat			    (ENS Lyon and CNRS)<br>
-Aris			Moustakas			(National Kapodistrian University of Athens)<br>
-Matteo			Negri			    (Rome La Sapienza)<br>
-Ari			    Pakman			    (Ben-Gurion University)<br>
-Luca			Pesce			    (EPFL)<br>
-Koubbi			Hugo			(EPFL)<br>
-Arianna			Piana			    (Weizmann Institute)<br>
-Giovanni		Piccioli			(EPFL)<br>
-Vanessa			Piccolo			    (ENS Lyon)<br>
-Fabrizio		Pittorino			(Bocconi)<br>
-Riccardo		Rossetti			(Duke)<br>
-Mahalakshmi		Sabanayagam		    (TU Munich)<br>
-Stefano			Sarao Mannelli		(Gatsby & SWC Universtiy College London)<br>
-Christoph		Schönle			    (École Polytechnique (CMAP))<br>
-Inbar			Seroussi			(Tel-Aviv University)<br>
-Cheng			Shi			        (University of Basel)<br>
-Jamie			Simon			    (UC Berkeley)<br>
-Sylvia          Serfaty				(NYU Courant Institut)<br>
-Umberto			Tomasini			(EPFL)<br>
-Emanuele		Troiani			    (EPFL)<br>
-Nikolaos		Tsilivis			(NYU)<br>
-Aditya			Varre			    (EPFL)<br>
-Rodrigo         Veiga               (EPFL)<br>
-Maksim			Velikanov			(Technology Innovation Institute)<br>
-Matteo			Vilucchio			(EPFL)<br>
-Atsushi			Yamamura			(Stanford)<br>
-Jacob			Zavatone-Veth		(Harvard)<br>
-Alexander		Zlokapa			    (MIT)<br>
+Leila Wehbe (CMU) <br> 
+Maxim     Raginsky (Urbana-Champaign)<br>
+Pan Zhang     (ITPC)     <br>
 </div>
 
 # Registration
 
-Applications are closed.
+Applications will be open in 2025
 
-<!-- The selection of the participants will take place in the days following the deadline (31st March 2023).  -->
+<!-- The selection of the participants will take place in the days following the deadline (31st March 2025).  -->
 
 # Practical informations
 
@@ -174,11 +72,11 @@ The poster of the event can be downloaded [here](Affiche-Krzakala-2023.pdf)
 
 # Contacts
 
-For any question, write [cargese2023@gmail.com](mailto:cargese2023@gmail.com).
+For any question, write [cargese2025@gmail.com](mailto:cargese2025@gmail.com).
 
 Feel free to tweet about the workshop! 
 
-<a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"> #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/intent/tweet?button_hashtag=cargese2025&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false"> #cargese2025</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ![Group Photo](Photo-Conf.jpg)
@@ -186,9 +84,9 @@ Feel free to tweet about the workshop!
 
 
 <!-- # Organization Committee:
-Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.), Vittorio Erba (EPFL, SPOC Lab.), Damien Barbier (EPFL, IdePhics Lab.)
+Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.)
            -->
-<!-- <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2023&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+<!-- <a href="https://twitter.com/intent/tweet?button_hashtag=cargese2025&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #cargese2023</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
 
 ![program](cargese.jpg)
