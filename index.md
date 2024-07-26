@@ -1,6 +1,6 @@
 ![program](cargese2023.jpg)
 
-The past decades brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The statistical physics community and the machine learning ones were connected and indeed many concepts and algorithms of machine learning have roots in physics. It is time to revive and strengthen this connection. After [a wonderful event in 2018](https://krzakala.github.io/cargese.io/) and  [a wonderful event in 2023](https://cargese2023.github.io/), we shall gather once again in Cargese in 2025, from July 31st to August 12th, and bring together researchers from machine learning & statistical physics to take full advantage of the strong link between the two fields to make further scientific progress. This school aims to bring together researchers from machine learning and statistical physics to train a new generation that will be able to take full advantage of the strong link between the two fields to make further scientific progress, but also to learn about the exiciting developenent in each other fields. The school will cover both theoretical aspect of machine learning and statistics. The format will be several (~10) 3h introductory lectures, and about twice as many contributed invited talks.
+The past decades brought a revolution to machine learning: algorithms are now able to deal with tasks and amounts of data that seemed to be science fiction only a decade ago. The statistical physics community and the machine learning ones were connected and indeed many concepts and algorithms of machine learning have roots in physics. It is time to revive and strengthen this connection. After [a wonderful event in 2018](https://krzakala.github.io/cargese.io/) and  [an equally amazing event in 2023](https://cargese2023.github.io/), we shall gather once again in Cargese in 2025, from August 5 to 15, and bring together researchers from machine learning & statistical physics to take full advantage of the strong link between the two fields to make further scientific progress. This school aims to bring together researchers from machine learning and statistical physics to train a new generation that will be able to take full advantage of the strong link between the two fields to make further scientific progress, but also to learn about the exiciting developenent in each other fields. The school will cover both theoretical aspect of machine learning and statistics. The format will be several (~10) 3h introductory lectures, and about twice as many contributed invited talks.
 
 __Organisers:__  Florent Krzakala (EPFL, IdePhics Lab.), Lenka Zdeborova (EPFL, SPOC Lab.) 
 
@@ -64,7 +64,7 @@ Applications will be open in 2025
 
 The workshop cost is 1100 euros per participant, covering accommodation, lunches and breakfasts. 
 
-While participant can arrive on 31/7 and leave on 12/8, the conference will take place between 1/8 and 11/8.
+While participant can arrive on 4/8 and leave on 16/8, the conference will take place between 5/8 and 15/8.
 
 More information can be found on [the institute webpage](https://iesc.universita.corsica/?lang=en).
 
