@@ -24,34 +24,39 @@ The program of the workshop:
 <div style="column-count: 3;">
 
 Peter Bartlett (Berkeley)<br>
-Giulio Biroli (ENS)<br>
-Michael Bronstein (DeepMind)<br>
+Giulio Biroli (ENS)<be>
+Michael Bronstein (Oxford)<br>
 Bruno Loureiro (ENS Paris)<br>
+Song Mei (Berkeley)<br>
 Aaditya Ramdas (CMU)<br>
+Philippe Rigollet (MIT)<br>
 Daniel Roy (Vector Institute)<br>
 Andrez Saxe (UCL)<br>
+Nike Sun (MIT)<be>
 
 </div>
 
 # Invited speakers
 
 <div style="column-count: 3;">
-Michael Albergo (courant) <br>
-Gérard 	Ben Arous 	(NYU)<br>
-Afonso Bandeira (ETHZ)<br>
+Michael Albergo (Harvard)<br>
+Gérard Ben Arous (NYU)<br>
+Alex Damien (Princeton)<br>
+Edgar Dobriban (U Penn)<br>
 Karolina Dziugaite (Goodle)<br>
 Federica	Gerace (Bologna)<br>
- Brice Huang (Harvard)<br>
-Aukosh Jagannath (Waterloo)<br>           
+Brice Huang (Harvard)<br>
+Aukosh Jagannath (Waterloo)<br>  
+Jason Lee (Princeton)<br>
 Alessandro Liao (ICTP)<br>
-Song Mei (Berkeley)<br>   
+Marc Mezard (Bocconi)<br>
 Francesca Mignacco (Princeton)<br>
 Courtney Paquette (McGill University)<br>
 Will Perkins (Georgia Tech)<br>           
 Eric 	Vanden-Eijnden	(NYU)<br>
-Leila Wehbe (CMU) <br> 
-Maxim     Raginsky (Urbana-Champaign)<br>
-Pan Zhang     (ITPC)     <br>
+Leila Wehbe (CMU)<br> 
+Maxim Raginsky (Urbana-Champaign)<br>
+Pan Zhang (ITPC)<br>
 </div>
 
 # Registration
